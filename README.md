@@ -8,7 +8,7 @@ In this analysis, we look at the feasibility of opening up a bikesharing busines
 The following is the link to the the New York CitiBike Storyboard: * [New York CitiBike](https://public.tableau.com/app/profile/mobin.piracha/viz/NYCChallenge/NYCChallengeStory)
 
 
-![This is a alt text.](/image/sample.png "https://github.com/mobinapiracha/bikesharing/blob/main/Images/Customer_Base.png")
+![This is a alt text.](/Images/Customer_Base.png")
 There are over 2,344,224 Trips in the month of August with over 81% of Total Customer base Subscribers and 65% of Customers being Men
 
 ![This is a alt text.](/Images/August_Peak_Hours.png)
