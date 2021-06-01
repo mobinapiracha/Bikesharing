@@ -5,7 +5,7 @@ In this analysis, we look at the feasibility of opening up a bikesharing busines
 
 ## Results 
 
-The following is the link to the the New York CitiBike Storyboard: * [New York CitiBike](https://public.tableau.com/app/profile/mobin.piracha/viz/NYCChallenge/NYCChallengeStory)
+The following is the link to the the New York CitiBike Storyboard: [New York CitiBike](https://public.tableau.com/app/profile/mobin.piracha/viz/NYCChallenge/NYCChallengeStory)
 
 
 ![This is a alt text.](/Images/Customer_Base.png)
