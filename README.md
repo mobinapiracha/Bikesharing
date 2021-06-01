@@ -10,4 +10,4 @@ In this analysis, we look at the feasibility of opening up a bikesharing busines
 * Trips by Weekday per hour show majority of trips happening during the peak hours of 7AM-9AM and 5PM-7PM from Monday to Friday, while Saturday biketrips occur mid-morning and afternoon time, as most people don't work on Saturday
 * Visualizing Trips by Weekday per hour based on Gender show that most trips are taken by Men, which a large part of the customer base, mainly during commuter hours, Female and Unknown categories also take trips during similar hours but account for a smaller portion of trips. 
 * User Trip by Gender shows us that majority of trips are taken by Male Subscribers and some Female Subscribers while non-subscribing Customers account for a very small portion of user trips
-* [link to dashboard]("https://public.tableau.com/app/profile/mobin.piracha/viz/NYCChallenge/NYCChallengeStory)
+* [link to dashboard]("https://public.tableau.com/app/profile/mobin.piracha/viz/NYCChallenge/NYCChallengeStory")
